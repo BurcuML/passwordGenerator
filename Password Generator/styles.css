@@ -24,3 +24,11 @@ border: 1px solid rgba(255, 255, 255, 0.23);
 padding: 15px;
 margin: 10px;
 }
+.settings{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.setting{
+  padding: 5px;
+}
