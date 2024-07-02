@@ -32,3 +32,18 @@ margin: 10px;
 .setting{
   padding: 5px;
 }
+#generatePassword{
+  width: 90%;
+  padding: 12px 20px;
+  margin: 8px 15px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 7px;
+}
+.result{
+  margin: 8px 55px;
+}
+#password-res{
+  padding: 8px;
+  margin: 7px 35px;
+}
